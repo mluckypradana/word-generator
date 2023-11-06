@@ -21,6 +21,9 @@ To get started with this app, follow the instructions below.
 ### Installation
 
 1. Clone the repository.
-
-   ```sh
-   git clone https://github.com/your-repo/word-generator-app.git
+   ```git clone https://github.com/your-repo/word-generator-app.git```
+2. Navigate to the project directory
+   ```cd word-generator-app```
+3. Run the app
+   ```flutter run```
+4. Enter a list of characters in the "Karakter" text field and press Enter to generate words
