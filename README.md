@@ -9,6 +9,9 @@ A Flutter application that generates and validates words based on user input. Us
 - Save or remove generated words to/from your preferences.
 - Display saved words in green and unsaved words in grey.
 
+## Screenshot
+![image](https://github.com/mluckypradana/word-generator/assets/8122186/e97431c2-5bd0-404f-bce9-cd8e32c65d79)
+
 ## Getting Started
 
 To get started with this app, follow the instructions below.
